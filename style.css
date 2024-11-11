@@ -1,0 +1,39 @@
+header {
+    background-color: #666;
+    padding: 20px;
+    color: #fff;
+    text-align: center; /* This line centers the content horizontally */
+    margin: 0 auto; /* This line centers the header horizontally */
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:   
+#f0f0f0;
+}
+
+
+form {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label, input, textarea, button {
+    margin-bottom: 10px;
+    max-width: 500px; /* Adjust this value as needed */
+  }
+  .the-button{
+    margin-top: 20px;
+    width: 100px;
+    height: 45px;
+    border-radius: 10%;
+ 
+  }
+
+ img{
+    height: 183px;
+    width: 275px;
+ }
